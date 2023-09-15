@@ -1,0 +1,235 @@
+#nav{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid whitesmoke;
+    height: 40px;align-items: center;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    
+   }
+#color{
+color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color:  #7B7B7C;
+    font-size: small;
+    
+}
+*{
+    margin: 0%;
+    display: flexbox;
+    
+    
+}
+img{
+   position: relative;
+   left: 520px;
+   top: 450px;
+
+}
+#vr{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-top: 300px;
+    padding-left: 20px;
+    
+}
+.welcome{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+   
+
+}
+.callout{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     padding-top: 120px;
+     padding-left: 540px;
+     color: rgb(117,117,122);
+     font-size: large;
+}
+#learn{
+    color: #4B93DB;
+   position: absolute;
+   top: 1300px;
+   left: 600px;
+}
+#learn:hover{
+    border-bottom: 2px solid #4B93DB;
+}
+
+
+.shopnow{
+   
+    border: 1px solid white;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    display: flex;
+    padding-left: 440px;
+   
+
+}
+.color-b{
+    color: #4B93DB;
+}
+
+.mac{
+   
+    background: url(../img/mac.jpg)center/cover;
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: 617px; 
+    background-repeat: no-repeat;
+}
+section{
+    border: 1px solid white;
+    height: 10px;
+}
+
+h2{
+    font-size: 48px;
+    /* line-height: 1.08349; */
+    font-weight: 600;
+    letter-spacing: -.002em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+h3{
+    font-size: 24px;
+    /* line-height: 1.16667; */
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.learn    {
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 400;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 110px;
+    margin-left: 600px;
+    color: #4B93DB;
+    display: inline-block;
+    
+
+}
+.learn:hover{
+    border-bottom: 2px solid #4B93DB;
+}
+.buy:hover{
+    border-bottom: 2px solid #4B93DB;
+}
+.buy{
+    
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 400;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 110px;
+    margin-left: 600px;
+    color: #4B93DB;
+    display: inline-block;
+    position: relative;
+   left: 160px;
+   bottom: 133.7px;
+}
+.vision{
+    background: url(../img/vision.jpg)center/cover;
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: 617px; 
+    background-repeat: no-repeat;
+    
+    
+}
+.yellow{
+    background: url(../img/hero_iphone14_yellow.jpg)center/cover;
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: 617px; 
+    background-repeat: no-repeat;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.won{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.learnbuy{
+    line-height: 1.21053;
+    font-weight: 400;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: .012em;
+    margin-top: 110px;
+    margin-left: 600px;
+    color: #4B93DB;
+    display: inline-block;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#buy{
+position: relative;
+left: 100px;
+bottom: 23px;
+}
+#buy:hover{
+    border-bottom: 2px solid #02161217;
+}
+#lee:hover{
+    border-bottom: 2px solid #02161217;
+}
+.watch{
+   
+    
+    background-repeat: no-repeat;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  
+}
+.watch{
+    background: url(../img/apple_watch_series_9.jpg)center/cover;
+    margin:0;
+    color: aliceblue;
+    padding: 0;
+    width: 100%;
+    height: 617px; 
+    background-repeat: no-repeat;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.series{
+    font-size: medium;
+    color: red;
+}
+.iphone15{
+    background: url(../img/iphone15pro.jpg)center/cover;
+    margin:0;
+    color: aliceblue;
+    padding: 0;
+    width: 100%;
+    height: 617px; 
+    background-repeat: no-repeat;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+#silver{
+    color: gray;
+}
+
+
+
+
+
+
+
+
