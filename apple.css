@@ -77,7 +77,7 @@ img{
 
 .mac{
    
-    background: url(../img/mac.jpg)center/cover;
+    background: url(./mac.jpg)center/cover;
     margin:0;
     padding: 0;
     width: 100%;
@@ -144,7 +144,7 @@ h3{
    bottom: 133.7px;
 }
 .vision{
-    background: url(../img/vision.jpg)center/cover;
+    background: url(./vision.jpg)center/cover;
     margin:0;
     padding: 0;
     width: 100%;
@@ -154,7 +154,7 @@ h3{
     
 }
 .yellow{
-    background: url(../img/hero_iphone14_yellow.jpg)center/cover;
+    background: url(./hero_iphone14_yellow.jpg)center/cover;
     margin:0;
     padding: 0;
     width: 100%;
@@ -197,7 +197,7 @@ bottom: 23px;
   
 }
 .watch{
-    background: url(../img/apple_watch_series_9.jpg)center/cover;
+    background: url(./apple_watch_series_9.jpg)center/cover;
     margin:0;
     color: aliceblue;
     padding: 0;
@@ -212,7 +212,7 @@ bottom: 23px;
     color: red;
 }
 .iphone15{
-    background: url(../img/iphone15pro.jpg)center/cover;
+    background: url(./iphone15pro.jpg)center/cover;
     margin:0;
     color: aliceblue;
     padding: 0;
